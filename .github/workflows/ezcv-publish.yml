@@ -2,7 +2,7 @@ name: GH build for ezcv
 
 permissions:
   pages: write
-  contents: read
+  contents: write
   statuses: read
   actions: write
 
