@@ -4,6 +4,7 @@ permissions:
   pages: write
   contents: read
   statuses: read
+  actions: write
 
 on:
   push:
